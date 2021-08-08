@@ -1,6 +1,14 @@
+### Hi
+我是一名初级开发
+- 由于专业关系，对硬件很有兴趣，业余时间会用开发板和元器件做点小东西
+- 对AI开发十分向往，妄想做一名调参侠
+- 目前用Java糊口
+
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Breadkid&show_icons=true&theme=gruvbox)
 
 <!--
+### Hi there 👋
+I'm Breadykid, a backend developer.
 **BreadKid/Breadkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
