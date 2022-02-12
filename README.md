@@ -1,8 +1,7 @@
 ### Hi
 我是一名初级开发
-- 由于专业关系，对硬件很有兴趣，业余时间会用开发板和元器件做点[小东西](http://www.breadykid.com/2018/05/10/%E6%A0%91%E8%8E%93%E6%B4%BE%E6%B8%A9%E6%B9%BF%E5%BA%A6%E7%9B%91%E7%9D%A3%E7%8E%A9%E5%85%B7/)
-- 对AI开发十分向往，妄想做一名调参侠
-- 目前用Java[糊口](http://www.breadykid.com/resume.pdf)
+- 自动化专业，所以业余时间会用开发板和元器件做点[玩具](http://www.breadykid.com/2018/05/10/%E6%A0%91%E8%8E%93%E6%B4%BE%E6%B8%A9%E6%B9%BF%E5%BA%A6%E7%9B%91%E7%9D%A3%E7%8E%A9%E5%85%B7/)
+- 目前搬砖[Java](http://www.breadykid.com/resume.pdf)
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Breadkid&show_icons=true&theme=gruvbox)
 
